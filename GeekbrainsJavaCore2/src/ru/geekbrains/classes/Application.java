@@ -13,7 +13,7 @@ public class Application {
         Participant[] participants = new Participant[] {
                 new Cat("Барсик", 10, 12, 0),
                 new Dog("Дружок", 20, 5, 15),
-                new Cat("Мурзик", 9, 14, 0),
+                new Cat("Шелдон", 9, 14, 0),
                 new Robot("Вертер", 50, 50, 50),
         };
 
